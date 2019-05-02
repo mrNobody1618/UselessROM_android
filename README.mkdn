@@ -1,5 +1,6 @@
 UselessROM
 ===========
+This is a useless ROM I am building for learning purposes.
 
 Getting Started
 ---------------
